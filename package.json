@@ -1,0 +1,25 @@
+{
+  "name": "test_email_newsletter",
+  "version": "1.0.0",
+  "description": "email newsletter",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Soniabensaad/Test_email_newsletter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Soniabensaad/Test_email_newsletter/issues"
+  },
+  "homepage": "https://github.com/Soniabensaad/Test_email_newsletter#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.2.3",
+    "mailslurp-client": "^16.0.0",
+    "pdf-parse": "^2.4.5"
+  }
+}
